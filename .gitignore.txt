@@ -1,0 +1,11 @@
+# Fichiers générés par Flutter
+/cybersafe-flutter/build/
+/cybersafe-flutter/.dart_tool/
+/cybersafe-flutter/.idea/
+/cybersafe-flutter/.metadata
+/cybersafe-flutter/.packages
+/cybersafe-flutter/*.iml
+
+# Fichiers système
+.DS_Store
+Thumbs.db
